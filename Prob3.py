@@ -1,2 +1,2 @@
-def p3(N):
+def Problem3(N):
   return N
