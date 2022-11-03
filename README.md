@@ -81,3 +81,8 @@ We want only those odd-value-keys.
 ```ruby
 {1: 2, 3: 5, 5: 11, 7: 17, 9: 23, 11: 31, 13: 41, 15: 47}
 ```
+Answer should be only 2 lines of code
+```python
+  primes = #Your code here Ans from Problem2
+  odd_dict_of_primes =  #Your Code Here  
+  ```
