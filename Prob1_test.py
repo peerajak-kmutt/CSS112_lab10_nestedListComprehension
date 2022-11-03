@@ -1,5 +1,5 @@
 import Prob1 as p1
-import Numpy as np
+import numpy as np
 
 def test_1():
     one3 = p1.Problem1(3)
